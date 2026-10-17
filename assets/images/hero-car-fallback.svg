@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 900" role="img" aria-labelledby="title">
+  <title id="title">Minh họa xe điện trên nền xanh đêm</title>
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#24364b"/><stop offset="1" stop-color="#080d14"/></linearGradient>
+    <linearGradient id="body" x2="0" y2="1"><stop stop-color="#aab7c4"/><stop offset=".52" stop-color="#455363"/><stop offset="1" stop-color="#18222e"/></linearGradient>
+    <linearGradient id="glass"><stop stop-color="#151f2a"/><stop offset=".5" stop-color="#52677b"/><stop offset="1" stop-color="#101923"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#3f7dad" stop-opacity=".45"/><stop offset="1" stop-color="#3f7dad" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1600" height="900" fill="url(#sky)"/>
+  <ellipse cx="940" cy="664" rx="650" ry="250" fill="url(#glow)"/>
+  <path d="M0 718h1600v182H0z" fill="#090e14"/>
+  <path d="M247 633c39-18 105-41 151-54l155-153c37-36 82-55 138-60l296-24c52-4 97 13 141 49l152 128 118 33c51 14 83 55 83 103v41H229v-43c0-9 7-16 18-20Z" fill="url(#body)" stroke="#becbd4" stroke-opacity=".62" stroke-width="5"/>
+  <path d="m600 445 118-18 68-4-8 153H460l133-130c2-1 4-1 7-1Zm215-23 116-10 118-10c40-3 72 9 108 38l93 83H808l7-101Z" fill="url(#glass)" stroke="#9eb1c2" stroke-opacity=".55" stroke-width="4"/>
+  <path d="m784 428 17 148M1114 403l-7 178" stroke="#aab9c6" stroke-opacity=".58" stroke-width="5"/>
+  <path d="M270 642c44-14 112-28 161-30l75-4m695-4 147 29c40 8 70 26 81 50" fill="none" stroke="#d4e4ef" stroke-opacity=".7" stroke-width="8"/>
+  <path d="M274 652h116l-2 20H260Zm1044 10 110 23v15h-122Z" fill="#b8dbf4"/>
+  <path d="M315 707h1023" stroke="#17212b" stroke-width="9"/>
+  <circle cx="501" cy="708" r="77" fill="#0a0d11" stroke="#526171" stroke-width="12"/>
+  <circle cx="501" cy="708" r="39" fill="#84919d" stroke="#d0d8de" stroke-width="4"/>
+  <circle cx="1171" cy="708" r="77" fill="#0a0d11" stroke="#526171" stroke-width="12"/>
+  <circle cx="1171" cy="708" r="39" fill="#84919d" stroke="#d0d8de" stroke-width="4"/>
+  <path d="M501 670v76m-38-38h76m632-38v76m-38-38h76" stroke="#576575" stroke-width="5"/>
+  <ellipse cx="885" cy="800" rx="650" ry="34" fill="#020407" opacity=".7"/>
+</svg>

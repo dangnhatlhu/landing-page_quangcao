@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 600" role="img" aria-labelledby="title">
+  <title id="title">Mẫu sedan điện AUREL minh họa màu đỏ ánh kim</title>
+  <defs>
+    <linearGradient id="paint" x2=".1" y2="1"><stop stop-color="#ef7474"/><stop offset=".25" stop-color="#bd3941"/><stop offset=".7" stop-color="#811d28"/><stop offset="1" stop-color="#45141b"/></linearGradient>
+    <linearGradient id="glass" x2="0" y2="1"><stop stop-color="#7890a5"/><stop offset=".2" stop-color="#17232e"/><stop offset="1" stop-color="#0a1118"/></linearGradient>
+    <linearGradient id="floor" x2="0" y2="1"><stop stop-color="#1c2733" stop-opacity="0"/><stop offset="1" stop-color="#090e14" stop-opacity=".55"/></linearGradient>
+    <linearGradient id="shine" x2="0" y2="1"><stop stop-color="#fff" stop-opacity=".65"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <ellipse cx="549" cy="470" rx="410" ry="63" fill="#02060a" opacity=".7"/>
+  <path d="M93 404c21-13 74-29 118-41l115-116c36-36 79-51 126-56l226-20c55-5 96 8 136 39l124 100 72 21c45 13 71 43 71 83v35H83v-24c0-9 3-15 10-21Z" fill="url(#paint)" stroke="#f5a0a0" stroke-opacity=".75" stroke-width="4"/>
+  <path d="m341 260 35-35c23-23 49-34 82-37l95-9-8 115H278Zm234-82 98-8c35-3 63 7 91 29l82 69H568Z" fill="url(#glass)" stroke="#9fb6c8" stroke-opacity=".65" stroke-width="4"/>
+  <path d="m552 181 14 113m-30-116-4 116m190-131-9 132" fill="none" stroke="#b9c7d1" stroke-opacity=".6" stroke-width="4"/>
+  <path d="M101 399c52-20 110-30 168-32l638-19c54-2 103 9 139 34" fill="none" stroke="url(#shine)" stroke-width="7"/>
+  <path d="m101 395 102-9-5 18-106 13Zm894-7 90 23v14l-99-17Z" fill="#d8f1ff"/>
+  <path d="M134 420h797" stroke="#43171e" stroke-width="7"/>
+  <circle cx="311" cy="420" r="61" fill="#080c10" stroke="#748392" stroke-width="10"/>
+  <circle cx="311" cy="420" r="30" fill="#b4c1cb" stroke="#e2e8ed" stroke-width="4"/>
+  <circle cx="311" cy="420" r="12" fill="#596a79"/>
+  <circle cx="797" cy="420" r="61" fill="#080c10" stroke="#748392" stroke-width="10"/>
+  <circle cx="797" cy="420" r="30" fill="#b4c1cb" stroke="#e2e8ed" stroke-width="4"/>
+  <circle cx="797" cy="420" r="12" fill="#596a79"/>
+  <path d="M311 393v54m-27-27h54m459-27v54m-27-27h54" stroke="#667887" stroke-width="4"/>
+  <path d="M92 453h898v48H92z" fill="url(#floor)"/>
+  <path d="M132 341h68" stroke="#f6a0a0" stroke-width="2" opacity=".8"/>
+</svg>
